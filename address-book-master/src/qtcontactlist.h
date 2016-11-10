@@ -34,6 +34,7 @@ class QtContactList : public QListWidget
     public:
         QtContactList(AddressBookModel& model, QWidget *parent=0); 
         Contact::ContactId getSelectedContactId();
+        Contact::ContactId searchList(std::string);
 
     public slots:
         void refreshContactList(); 

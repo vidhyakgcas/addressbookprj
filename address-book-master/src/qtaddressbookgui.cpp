@@ -44,13 +44,15 @@ void QtAddressBookGUI::createWidgets()
     newContactButton = new QPushButton("New Contact");
     editContactButton = new QPushButton("Edit");
     deleteContactButton = new QPushButton("Delete");
-    searchButton = new QPushButton("Search");
+    searchContactButton = new QPushButton("Search");
+    searchContactField = new QLineEdit("Enter first name to search");
 
     QHBoxLayout *buttonLayout = new QHBoxLayout();
     buttonLayout->addWidget(newContactButton);
     buttonLayout->addWidget(editContactButton);
     buttonLayout->addWidget(deleteContactButton);
-    buttonLayout->addWidget(searchButton);
+    buttonLayout->addWidget(searchContactField);
+    buttonLayout->addWidget(searchContactButton);
     QVBoxLayout *rightSideLayout = new QVBoxLayout();
     rightSideLayout->addWidget(detailView);
     rightSideLayout->addLayout(buttonLayout);
@@ -73,7 +75,7 @@ void QtAddressBookGUI::createWidgets()
 
     connect(editContactButton, SIGNAL(clicked()),
             this, SLOT(editContact()));
-    connect(searchButton, SIGNAL(clicked()),
+    connect(searchContactButton, SIGNAL(clicked()),
             this, SLOT(searchContact()));
     //tell the sub-widgets to refresh their data from
     //
@@ -209,3 +211,10 @@ void QtAddressBookGUI::deleteContact()
     }
 }
 
+void QtAddressBookGUI::searchContact()
+{
+    std::string nameTosearch =searchContactField->text().toStdString();
+    Contact::ContactId idOfSearchedItem = list->searchList(nameTosearch);
+    detailView->clear();
+    detailView->displayContact(idOfSearchedItem);
+}
