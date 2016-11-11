@@ -1,0 +1,24 @@
+E:\gitnew\addressbookprj\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\gen\org\qtproject\example\address_book\R.java \
+ : E:\gitnew\addressbookprj\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\res\layout\splash.xml \
+E:\gitnew\addressbookprj\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\res\values\libs.xml \
+E:\gitnew\addressbookprj\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\res\values\strings.xml \
+E:\gitnew\addressbookprj\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\res\values-de\strings.xml \
+E:\gitnew\addressbookprj\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\res\values-el\strings.xml \
+E:\gitnew\addressbookprj\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\res\values-es\strings.xml \
+E:\gitnew\addressbookprj\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\res\values-et\strings.xml \
+E:\gitnew\addressbookprj\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\res\values-fa\strings.xml \
+E:\gitnew\addressbookprj\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\res\values-fr\strings.xml \
+E:\gitnew\addressbookprj\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\res\values-id\strings.xml \
+E:\gitnew\addressbookprj\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\res\values-it\strings.xml \
+E:\gitnew\addressbookprj\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\res\values-ja\strings.xml \
+E:\gitnew\addressbookprj\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\res\values-ms\strings.xml \
+E:\gitnew\addressbookprj\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\res\values-nb\strings.xml \
+E:\gitnew\addressbookprj\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\res\values-nl\strings.xml \
+E:\gitnew\addressbookprj\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\res\values-pl\strings.xml \
+E:\gitnew\addressbookprj\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\res\values-pt-rBR\strings.xml \
+E:\gitnew\addressbookprj\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\res\values-ro\strings.xml \
+E:\gitnew\addressbookprj\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\res\values-rs\strings.xml \
+E:\gitnew\addressbookprj\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\res\values-ru\strings.xml \
+E:\gitnew\addressbookprj\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\res\values-zh-rCN\strings.xml \
+E:\gitnew\addressbookprj\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\res\values-zh-rTW\strings.xml \
+E:\gitnew\addressbookprj\build-address-book-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\bin\AndroidManifest.xml \

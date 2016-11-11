@@ -110,7 +110,4 @@ Contact::ContactId QtContactList::searchList(std::string name)
           errormessage.setText("No such contact");
           errormessage.exec();
 
-
-
-
 }
